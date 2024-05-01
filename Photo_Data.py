@@ -47,7 +47,7 @@ def capture_image_and_save(output_directory):
 
 if __name__ == "__main__":
     # Example usage with specified output directory
-    output_directory = r"C:\SeniorProject\views\img"
+    output_directory = r"C:\Github\SeniorProject\views\img"
     os.makedirs(output_directory, exist_ok=True)
     
     capture_image_and_save(output_directory)

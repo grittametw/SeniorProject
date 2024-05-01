@@ -88,6 +88,6 @@ class ColorPicker:
 
 if __name__ == "__main__":
     # Change the file Location here !!!
-    image_path = r"C:\SeniorProject\views\img\image.png"
+    image_path = r"C:\Github\SeniorProject\views\img\image.png"
     color_picker = ColorPicker(image_path)
     color_picker.run()

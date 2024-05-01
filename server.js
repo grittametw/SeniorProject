@@ -1,5 +1,5 @@
 var express = require( 'express' )
-var mysql = require( 'mysql2' )
+var mysql = require( 'mysql' )
 const colorDiff = require('color-diff');
 
 var database = mysql.createConnection({
