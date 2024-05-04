@@ -44,6 +44,7 @@ def send_to_database(data):
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
+        password="",
         database="test_layduna"
     )
     cursor = conn.cursor()
