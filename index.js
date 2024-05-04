@@ -92,7 +92,6 @@ app.get('/', function (req, res) {
           var z3_y1 = Y_zone3 + 20;         // เพิ่ม
           var z3_z1 = Z_zone3 -4;           // เพิ่ม
           var z3_z2 = Z_zone3 -7;           // เพิ่ม
-          var Zone3_Z = Z_zone3 - 2;
           var Z4_X_l = X_zone4 + 50;       //zone4 left cheek
           var z4_y1 = Y_zone4 + 20;         // เพิ่ม
           var z4_z1 = Z_zone4 - 4;          // เพิ่ม
